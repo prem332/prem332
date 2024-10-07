@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @prem332
-- 👀 I’m interested in Data Science field...
-- 🌱 I’m currently practicing hands on Data Science topics.
+- 👋 Hi, I’m Prem Kumar
+- 👀 I’m a Data Science profeesional
 
 <!---
 prem332/prem332 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
